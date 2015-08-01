@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">layouts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Layout</string>
+	<string name="nome_label">Nome:</string>
+	<string name="msg_label">Ver Msg</string>
+	<string name="k19_label">K19 Logo</string>
+	<string name="hello_message">Ola, %1$s!</string>
+</resources>
