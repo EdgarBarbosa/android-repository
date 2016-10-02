@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppEvento</string>
+
+    <string-array name="arrayAulas">
+        <item>Video 1 - 26/092016</item>
+        <item>Video 3 - 28/092016</item>
+        <item>Video 4 - 29/092016</item>
+        <item>Video 5 - 30/092016</item>
+    </string-array>
+</resources>
